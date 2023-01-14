@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidgodness
-- 👀 I’m interested in web development, reading, watching movies, basketball ...
+- 👀 I’m interested in web development, reading books, watching movies, basketball ...
 - 🌱 I’m currently learning [go](https://go.dev), [react](https://reactjs.org/)
 
 <!---
