@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidgodness
 - 👀 I’m interested in web development, reading books, watching movies, basketball ...
-- 🌱 I’m currently learning [go](https://go.dev), [react](https://reactjs.org/)
+- 🌱 I’m currently learning [react](https://reactjs.org/)
 
 <!---
 davidgodness/davidgodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
